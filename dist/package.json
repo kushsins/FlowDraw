@@ -1,0 +1,27 @@
+{
+  "name": "@kushsins/flowdraw",
+  "version": "0.0.1",
+  "description": "FlowDraw",
+  "module": "lib/flowdraw.js",
+  "sideEffects":false,
+  "repository": {
+    "type": "git",
+    "url":"git+https://github.com/kushsins/FlowDraw.git"
+  },
+  "files": [
+    "lib",
+    "CHANGELOG.md",
+    "LICENSE",
+    "package.json",
+    "README.md"
+  ],
+  "keywords": [
+    "javascript",
+    "typescript",
+    "flowdraw",
+    "flowchart"
+  ],
+  "author": "Kushagra Singh",
+  "license":"MIT",
+  "homepage": "https://github.com/kushsins/FlowDraw#readme"
+}

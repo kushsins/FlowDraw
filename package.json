@@ -1,0 +1,10 @@
+{
+  "name": "flowdraw",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "del -rf dist/lib && tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.3"
+  }
+}
